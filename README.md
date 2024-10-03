@@ -2,7 +2,7 @@
 
 ## Definición del Problema
 
-Dada una matriz \( A \) de \( N \times N \) números reales y un conjunto de ternas del tipo \( (x, y, t) \), se deben obtener submatrices, calcular su cuadrado y sumar el resultado a \( A \). La acumulación de una submatriz no afecta a las siguientes.
+Dada una matriz \( A \) de \( NxN \) números reales y un conjunto de ternas del tipo \( (x, y, t) \), se deben obtener submatrices, calcular su cuadrado y sumar el resultado a \( A \). La acumulación de una submatriz no afecta a las siguientes.
 
 ### Ejemplo de Matriz \( A \):
 
