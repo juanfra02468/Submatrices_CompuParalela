@@ -1,0 +1,14 @@
+Entero(Número de experimentos)
+Entero(Tamaño de la matriz del experimento 1)
+Entero(Semilla del experimento 1)
+Entero(Número de submatrices del experimento 1)
+Entero(Tamaño de la matriz del experimento 2)
+Entero(Semilla del experimento 2)
+Entero(Número de submatrices del experimento 2)
+...
+Entero(Tamaño de la matriz del experimento N)
+Entero(Semilla del experimento N)
+Entero(Número de submatrices del experimento N)
+
+Los valores pueden estar separados por saltos de línea o por espacios.
+IMPORTANTE: No se deberán usar letras ni líneas en blanco ya que el programa principal no hace ningún control sobre el formato del fichero, simplemente lee números de forma consecutiva. Además, se leerán tantos grupos de parámetros como se indique en la primera línea del fichero, por lo que si se añaden grupos adicionales, no se tendrán en cuenta, y si faltan grupos, el comportamiento será impredecible
